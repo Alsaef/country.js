@@ -1,0 +1,10 @@
+.Country{
+    margin: 20px;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.Country img{
+ width: 150px;
+
+}
